@@ -1,4 +1,4 @@
-# choose
+# Choose the object
 
 ## Project setup
 ```
